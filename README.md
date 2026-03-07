@@ -1,5 +1,5 @@
 # FaceEditor: Text-Driven and Mask-Constrained Face Attribute Editing
-![图1](https://github.com/Zlin0530/HairManip/blob/main/images/fig1.jpg)
+![图1](images/img1.pdf)
 
 ## Overview
 > This repository hosts the official PyTorch implementation of the paper:  
