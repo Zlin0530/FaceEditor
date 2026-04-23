@@ -17,7 +17,7 @@
 
 
 ## Acknowledgements
-Our code is modified based on [DeltaEdit](https://github.com/Yueming6568/DeltaEdit)
+Our code is modified based on [DeltaEdit](https://github.com/Yueming6568/DeltaEdit).
 
 ## Citation
 If you use this code for your research, please cite our paper:
