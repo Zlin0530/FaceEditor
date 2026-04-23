@@ -3,7 +3,7 @@
 
 ## Overview
 > This repository hosts the official PyTorch implementation of the paper:  
->  "**FaceEditor: Text-Driven and Mask-Constrained Face Attribute Editing**".  
+>  "**FaceEditor: Text-Driven and Mask-Constrained Face Attribute Editing**", Pattern Recognition 2023.
 
 ## News
 **`2026.03.07`**: The training and inference code will be released upon acceptance of the paper.   
@@ -17,7 +17,7 @@
 
 
 ## Acknowledgements
-
+Our code is modified based on [DeltaEdit](https://github.com/Yueming6568/DeltaEdit)
 ## Citation
 
 
